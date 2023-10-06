@@ -30,11 +30,17 @@
 
 - 이미지
 - ![istockphoto-1093591038-612x612 (3)](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/c0b5b3f5-5e8d-437e-822c-3c5c8489d85a)
+  메인컨셉인 도전의 의미와 서브컨셉인 성취감을 나타내는 이미지 입니다.
 
+- ![20200822145654](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/7f9ccfaa-20fa-4222-801f-8592a92daed5)
+  구상중인 작품과 유사한 게임의 서브컨셉의 다양성을 포함한 다양한 장애물과 서브컨셉의 아기자기함을 보여주는 이미지 입니다.
 
-  <img src="./img/관련이미지.jpg">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [[![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)](https://youtu.be/iqiXST7SFMM)
+  (유사게임영상) 폴가이즈 게임사에서 제공하는 크리에이터로 유저들이 직접 만들어본 맵의 플레이 영상 입니다.
+
+  https://youtu.be/Lm5yHWBzfXo
+  참고한 유사게임인 폴가이즈의 시네마틱 트레일러 입니다.
 
 <br><br>
 

@@ -29,7 +29,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지
-- https://course.pcu.ac.kr/pluginfile.php/716044/mod_forum/post/31041/istockphoto-1093591038-612x612%20%283%29.jpg
+- ![istockphoto-1093591038-612x612 (3)](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/c0b5b3f5-5e8d-437e-822c-3c5c8489d85a)
+
 
   <img src="./img/관련이미지.jpg">
 - 동영상

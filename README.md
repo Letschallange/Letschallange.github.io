@@ -112,7 +112,11 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|축구장|<img src="./img/축구장.png" width="500">|
-|2|골대|<img src="./img/골대.png" width="500">|
-|3|홍길동선수|<img src="./img/홍길동선수.png" height="300">|
-|4|골킵|<img src="./img/골킵.png" height="300">|
+|1|주인공|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/cb3f35c6-c835-44f1-92b1-62937d57ecbc)|
+|2|트랩1|<img src="./img/골대.png" width="500">|
+|3|트랩2|<img src="./img/홍길동선수.png" height="300">|
+|4|트랩3|<img src="./img/골킵.png" height="300">|
+|5|트랩4|<img src="./img/골킵.png" height="300">|
+|6|트랩5|<img src="./img/골킵.png" height="300">|
+|7|트랩6|<img src="./img/골킵.png" height="300">|
+|8|트랩7|<img src="./img/골킵.png" height="300">|

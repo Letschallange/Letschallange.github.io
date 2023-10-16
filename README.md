@@ -113,10 +113,19 @@
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|주인공|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/cb3f35c6-c835-44f1-92b1-62937d57ecbc)|
-|2|트랩1|<img src="./img/골대.png" width="500">|
-|3|트랩2|<img src="./img/홍길동선수.png" height="300">|
-|4|트랩3|<img src="./img/골킵.png" height="300">|
-|5|트랩4|<img src="./img/골킵.png" height="300">|
-|6|트랩5|<img src="./img/골킵.png" height="300">|
-|7|트랩6|<img src="./img/골킵.png" height="300">|
-|8|트랩7|<img src="./img/골킵.png" height="300">|
+|2|트랩1|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/7f85784e-01a4-4b5e-88d1-2d27c62919ee)|
+|3|트랩2|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/17ae0de5-bf92-4b91-9f2e-975045f60395)|
+|4|트랩3|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/4a5e2986-7a3d-4f57-859f-cd04deb56eb2)|
+|5|트랩4|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/9f098c66-b723-4a93-bcbc-b15b67aaac00)|
+|6|트랩5|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/8ed6925e-c3f9-40e9-8830-749a981a3bcb)|
+|7|트랩6|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/d893e32e-cbe8-44d8-b8c6-e8986608358c)|
+|8|트랩7|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/f10c39f3-22d5-4290-93ad-732c3d4652a5)|
+|8|스카이박스|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/9ab79c7b-5404-4bdb-aaf2-6ab2166ca13d)|
+|8|나무|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/33fffafb-bf0d-48a9-af74-1c55b0e55366)|
+|8|풀|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bcbd41a5-aa08-4463-821e-83592780ee20)|
+|8|골인|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0382adc6-e403-42e8-81f9-4e659b7dcd87)|
+|8|시작버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/855326cc-5a85-4997-a375-0d09c5f05843)|
+|8|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
+|8|효과음1|점프 사운드 사용 예정|
+|8|효과음2|걷는 효과음 사용 예정|
+|8|배경음|배경화면 사운드 추가 예정|

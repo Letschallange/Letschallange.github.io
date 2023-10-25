@@ -233,7 +233,7 @@
                    : SPACE ( 캐릭터의 점프키 SPACE 이다.)
 
 # 7. 스토리 보드
-||||
+|1|2|3|
 |:----:|:----:|:----:|
 |![13213](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/51170a31-e9fd-4cff-b3ca-12be75573e40)|![333](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/3d28a2c5-f67e-4f10-b5b6-8512969ee884)|![222](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0b1973d8-fbab-435a-9acb-806e658bc68c)|
 |1. 타이틀 씬의 배경과 함께 시작버튼 / 종료 버튼이 배치되어있다.|2. 게임을 시작하면 플레이어가 장애물들이 펼쳐져있는 맵에서 스폰되고 레이스가 시작된다.|3. 플레이어가 장애물들을 넘어가며 골라인을 향해 달려간다.|

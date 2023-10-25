@@ -234,6 +234,11 @@
                    : SPACE ( 캐릭터의 점프키 SPACE 이다.)
 
 # 7. 스토리 보드
+||||
+|:----:|:----:|:----:|
+|![13213](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/51170a31-e9fd-4cff-b3ca-12be75573e40)|![333](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/3d28a2c5-f67e-4f10-b5b6-8512969ee884)|![222](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0b1973d8-fbab-435a-9acb-806e658bc68c)|
+
+
 
 
                    

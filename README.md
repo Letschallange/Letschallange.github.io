@@ -253,15 +253,15 @@
 
 # 7. 스토리 보드
 |![13213](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/51170a31-e9fd-4cff-b3ca-12be75573e40)
-1. 타이틀 씬의 배경과 함께 시작버튼 / 종료 버튼이 배치되어있다.
+## 1. 타이틀 씬의 배경과 함께 시작버튼 / 종료 버튼이 배치되어있다.
 |![333](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/3d28a2c5-f67e-4f10-b5b6-8512969ee884)
-2. 게임을 시작하면 플레이어가 장애물들이 펼쳐져있는 맵에서 스폰되고 레이스가 시작된다.
-|![222](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0b1973d8-fbab-435a-9acb-806e658bc68c)|
-3. 플레이어가 장애물들을 넘어가며 골라인을 향해 달려간다.|
+## 2. 게임을 시작하면 플레이어가 장애물들이 펼쳐져있는 맵에서 스폰되고 레이스가 시작된다.
+|![222](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0b1973d8-fbab-435a-9acb-806e658bc68c)
+## 3. 플레이어가 장애물들을 넘어가며 골라인을 향해 달려간다.|
 |![23423424](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/3ea23684-98c6-4157-83c1-c6734a43260b)
-4. 장애물들을 넘어 골라인에 도달하면 게임이 끝나게되고
-|![t3535](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/5937905c-1d9c-4eaa-a016-04c03ab866da)||
-5. 게임 클리어 씬이 나오면서 게임이 끝이난다.
+## 4. 장애물들을 넘어 골라인에 도달하면 게임이 끝나게되고
+|![t3535](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/5937905c-1d9c-4eaa-a016-04c03ab866da)
+## 5. 게임 클리어 씬이 나오면서 게임이 끝이난다.
    
 
 # [프로토 타입 개발(6주 요구사항)]

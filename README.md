@@ -128,12 +128,12 @@
 |15|효과음1|점프 사운드 사용 예정|
 |16|효과음2|걷는 효과음 사용 예정|
 |17|배경음|배경화면 사운드 추가 예정|
-|18|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/4f4d18b4-f6e2-4ad8-bcaa-66a3eeed1e0e)|
-|19|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
-|20|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
-|21|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
-|22|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
-|23|종료버튼|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
+|18|트랩8|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/4f4d18b4-f6e2-4ad8-bcaa-66a3eeed1e0e)|
+|19|트랩9|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/d94cfa78-9890-4b5f-b089-3628f4433c13)|
+|20|트랩10|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0e3bf700-6412-4377-9118-193d5dce9211)|
+|21|트랩11|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/72c241f0-217f-4622-97fe-294144264b78)|
+|22|트랩12|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/01fc8076-5459-4e23-afda-587d0d614511)|
+|23|트랩13|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
 
 # 2. 파라미터(속성) 뽑아 보기
 

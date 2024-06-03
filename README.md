@@ -133,7 +133,10 @@
 |20|트랩10|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/0e3bf700-6412-4377-9118-193d5dce9211)|
 |21|트랩11|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/72c241f0-217f-4622-97fe-294144264b78)|
 |22|트랩12|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/01fc8076-5459-4e23-afda-587d0d614511)|
-|23|트랩13|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/bd5a3386-74bb-4a23-9c0d-c81cfbf887c8)|
+|23|트랩13|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/5f383f80-f126-40e7-b45d-1206659ff846)|
+|23|트랩14|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/a2faac1b-80a8-42c1-abdb-e7a4255c89f0)|
+|23|트랩15|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/b681c2e5-fdfd-4912-a086-343d445bd58a)|
+|23|트랩16|![image](https://github.com/Letschallange/Letschallange.github.io/assets/147049133/e4bbf7de-3b03-49f9-95b0-1d74cb2aa9a5)|
 
 # 2. 파라미터(속성) 뽑아 보기
 
